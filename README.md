@@ -5,7 +5,7 @@ Checklist
 
 2. Report     --DONE
 
-3. Project    --DONE
+3. Project files    --DONE
 
 4. Demo Link  --DONE
 
